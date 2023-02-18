@@ -1,5 +1,5 @@
 # Xinyu Shi Master Program Thesis
-Mixed-Effects Location Scale Models on Health Behaviors to Academic Performance via Affect: Modeling Variances
+Topic: "Mixed-Effects Location Scale Models on Health Behaviors to Academic Performance via Affect: Modeling Variances"
 
 Abstract: 
 Ecological momentary assessment (EMA) data collection is a tool that allows
