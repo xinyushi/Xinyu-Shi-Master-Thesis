@@ -15,3 +15,5 @@ effects) and subjects’ variability (scale effects). By implementing this
 model to this existing study, some novel findings are discovered. We conclude
 that daily higher level of negative affect is associate with more erratic learning
 goal achievement.
+
+Please see Shi_Master_thesis_project_final.pdf document for the whole project. 
