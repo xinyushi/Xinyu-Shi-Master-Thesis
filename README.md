@@ -1,4 +1,4 @@
-# Xinyu-Shi-Master-Thesis
+# Xinyu Shi Master Program Thesis
 Mixed-Effects Location Scale Models on Health Behaviors to Academic Performance via Affect: Modeling Variances
 
 Abstract: 
